@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GameUI",
+            "request": "launch",
+            "mainClass": "GameUI",
+            "vmArgs": "--module-path /Applications/javafx-sdk-23.0.2/lib --add-modules javafx.controls",
+            "projectName": "TicTacToe_f3ffe60c"
+        },
+        {
+            "type": "java",
+            "name": "Tictactoe",
+            "request": "launch",
+            "mainClass": "Tictactoe",
+            "projectName": "TicTacToe_f3ffe60c"
+        }
+    ]
+}
